@@ -2,5 +2,11 @@
   "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup/installApps_download/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/aholstrup1/AL-Go@aholstrup/installApps_download",
-  "templateSha": "324518cb9ff2c72c73524bb07db03df1ac2e62cc"
+  "templateSha": "324518cb9ff2c72c73524bb07db03df1ac2e62cc",
+  "installApps": [
+    "https://github.com/BusinessCentralApps/helloworld.pte/releases/download/2.0.0/helloworld.pte-main-Apps-2.0.5.0.zip"
+  ],
+  "installTestApps": [
+    "https://github.com/BusinessCentralApps/helloworld.pte/releases/download/2.0.0/helloworld.pte-main-TestApps-2.0.5.0.zip"
+  ]
 }
