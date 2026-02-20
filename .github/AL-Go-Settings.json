@@ -2,5 +2,8 @@
   "$schema": "https://raw.githubusercontent.com/aholstrup1/AL-Go/aholstrup/installApps_download/Actions/.Modules/settings.schema.json",
   "type": "PTE",
   "templateUrl": "https://github.com/aholstrup1/AL-Go@aholstrup/installApps_download",
-  "templateSha": "bf762706d85de98a99b092a3be0b1479e89aa254"
+  "templateSha": "bf762706d85de98a99b092a3be0b1479e89aa254",
+  "installApps": [
+    "https://raw.githubusercontent.com/Aholstrup1-PersonalOrg/pr-test-2101-2/main/Dependencies/${{ MY_APP_SECRET }}"
+  ]
 }
